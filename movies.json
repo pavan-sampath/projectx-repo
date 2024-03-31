@@ -1,0 +1,503 @@
+{
+    "movies": [
+      {
+        "title": "Inception",
+        "year": 2010,
+        "genre": ["Sci-fi", "Action"]
+      },
+      {
+        "title": "Shutter Island",
+        "year": 2010,
+        "genre": ["Thriller", "Mystery"]
+      },
+      {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "title": "The Prestige",
+        "year": 2006,
+        "genre": ["Thriller", "Sci-fi"]
+      },
+      {
+        "title": "Fight Club",
+        "year": 1999,
+        "genre": ["Thriller", "Crime"]
+      },
+      {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "year": 2004,
+        "genre": ["Romance", "Sci-fi"]
+      },
+      {
+        "title": "The Matrix",
+        "year": 1999,
+        "genre": ["Action", "Sci-fi"]
+      },
+      {
+        "title": "Leon: The Professional",
+        "year": 1994,
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "title": "127 Hours",
+        "year": 2010,
+        "genre": ["Adventure", "Thriller"]
+      },
+      {
+        "title": "Mulholland Dr.",
+        "year": 2001,
+        "genre": ["Thriller", "Mystery"]
+      },
+      {
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "title": "The Butterfly Effect",
+        "year": 2004,
+        "genre": ["Thriller", "Sci-fi"]
+      },
+      {
+        "title": "Into the Wild",
+        "year": 2007,
+        "genre": ["Adventure", "Documentary"]
+      },
+      {
+        "title": "Sunshine",
+        "year": 2007,
+        "genre": ["Sci-fi", "Thriller"]
+      },
+      {
+        "title": "District 9",
+        "year": 2009,
+        "genre": ["Sci-fi", "Action"]
+      },
+      {
+        "title": "Se7en",
+        "year": 1995,
+        "genre": ["Crime", "Mystery"]
+      },
+      {
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "genre": ["Horror", "Mystery"]
+      },
+      {
+        "title": "Magnolia",
+        "year": 1999,
+        "genre": ["Drama", "Classic"]
+      },
+      {
+        "title": "Donnie Darko",
+        "year": 2001,
+        "genre": ["Sci-fi", "Thriller"]
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo",
+        "year": 2011,
+        "genre": ["Thriller", "Crime"]
+      },
+      {
+        "title": "The Departed",
+        "year": 2006,
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "title": "The Usual Suspects",
+        "year": 1995,
+        "genre": ["Thriller", "Crime"]
+      },
+      {
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "genre": ["Horror", "Drama"]
+      },
+      {
+        "title": "Whiplash",
+        "year": 2014,
+        "genre": ["Drama", "Indie"]
+      },
+      {
+        "title": "A Sepration",
+        "year": 2011,
+        "genre": ["Documentary", "Thriller"]
+      },
+      {
+        "title": "Memento",
+        "year": 2000,
+        "genre": ["Thriller", "Mystery"]
+      },
+      {
+        "title": "Gladiator",
+        "year": 2000,
+        "genre": ["Action", "Adventure"]
+      },
+      {
+        "title": "The Shining",
+        "year": 1980,
+        "genre": ["Horror", "Mystery"]
+      },
+      {
+        "title": "American Beauty",
+        "year": 1999,
+        "genre": ["Comedy", "Romance"]
+      },
+      {
+        "title": "No Country for Old Men",
+        "year": 2007,
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "title": "Blue Valentine",
+        "year": 2010,
+        "genre": ["Romance", "Drama"]
+      },
+      {
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "genre": ["Romance", "Thriller"]
+      },
+      {
+        "title": "Wall-E",
+        "year": 2008,
+        "genre": ["Family", "Sci-fi"]
+      },
+      {
+        "title": "Tae Guk Gi: The Brotherhood",
+        "year": 2004,
+        "genre": ["War", "Action"]
+      },
+      {
+        "title": "Crash",
+        "year": 2004,
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "title": "Django Unchained",
+        "year": 2012,
+        "genre": ["Western", "Action"]
+      },
+      {
+        "title": "50/50",
+        "year": 2011,
+        "genre": ["Comedy", "Romance"]
+      },
+      {
+        "title": "Slumdog Millionaire",
+        "year": 2008,
+        "genre": ["Romance", "Crime"]
+      },
+      {
+        "title": "Life is Beautiful",
+        "year": 1997,
+        "genre": ["Comedy", "War"]
+      },
+      {
+        "title": "Braveheart",
+        "year": 1995,
+        "genre": ["War", "Action"]
+      },
+      {
+        "title": "Psycho",
+        "year": 1960,
+        "genre": ["Horror", "Mystery"]
+      },
+      {
+        "title": "Eyes Wide Shut",
+        "year": 1999,
+        "genre": ["Mystery", "Thriller"]
+      },
+      {
+        "title": "Kiss Kiss Bang Bang",
+        "year": 2005,
+        "genre": ["Comedy", "Crime"]
+      },
+      {
+        "title": "Lost in Translation",
+        "year": 2003,
+        "genre": ["Comedy", "Romance"]
+      },
+      {
+        "title": "It's a Wonderful Life",
+        "year": 1946,
+        "genre": ["Fantasy", "Comedy"]
+      },
+      {
+        "title": "Rain Man",
+        "year": 1988,
+        "genre": ["Comedy", "Thriller"]
+      },
+      {
+        "title":
+  
+   "3:10 to Yuma",
+        "year": 2007,
+        "genre": ["Western", "Action"]
+      },
+      {
+        "title": "Changeling",
+        "year": 2008,
+        "genre": ["Crime", "Mystery"]
+      },
+      {
+        "title": "Nightcrawler",
+        "year": 2014,
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": 1975,
+        "genre": ["Thriller", "Drama"]
+      },
+      {
+        "title": "21 Grams",
+        "year": 2003,
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "title": "A Few Good Men",
+        "year": 1992,
+        "genre": ["Thriller", "War"]
+      },
+      {
+        "title": "Enemy",
+        "year": 2013,
+        "genre": ["Thriller", "Mystery"]
+      },
+      {
+        "title": "Before Midnight",
+        "year": 2013,
+        "genre": ["Romance", "Drama"]
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "genre": ["Crime", "Comedy"]
+      },
+      {
+        "title": "The Grand Budapest Hotel",
+        "year": 2014,
+        "genre": ["Comedy", "Crime"]
+      },
+      {
+        "title": "Vertigo",
+        "year": 1958,
+        "genre": ["Thriller", "Mystery"]
+      },
+      {
+        "title": "Amélie",
+        "year": 2001,
+        "genre": ["Comedy", "Romance"]
+      },
+      {
+        "title": "The Martian",
+        "year": 2015,
+        "genre": ["Sci-fi", "Adventure"]
+      },
+      {
+        "title": "Identity",
+        "year": 2003,
+        "genre": ["Horror", "Mystery"]
+      },
+      {
+        "title": "Jackie Brown",
+        "year": 1997,
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "title": "Batman Begins",
+        "year": 2005,
+        "genre": ["Action", "Crime"]
+      },
+      {
+        "title": "The Sting",
+        "year": 1973,
+        "genre": ["Comedy", "Crime"]
+      },
+      {
+        "title": "Timecrimes",
+        "year": 2007,
+        "genre": ["Thriller", "Sci-fi"]
+      },
+      {
+        "title": "Raging Bull",
+        "year": 1980,
+        "genre": ["Sport", "Crime"]
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "genre": ["Thriller", "Crime"]
+      },
+      {
+        "title": "Avatar",
+        "year": 2009,
+        "genre": ["Sci-fi", "Action"]
+      },
+      {
+        "title": "Warrior",
+        "year": 2011,
+        "genre": ["Action", "Sport"]
+      },
+      {
+        "title": "Zombieland",
+        "year": 2009,
+        "genre": ["Horror", "Comedy"]
+      },
+      {
+        "title": "The Green Mile",
+        "year": 1999,
+        "genre": ["Crime", "Fantasy"]
+      },
+      {
+        "title": "The Illusionist",
+        "year": 2006,
+        "genre": ["Mystery", "Romance"]
+      },
+      {
+        "title": "The Patriot",
+        "year": 2000,
+        "genre": ["War", "Action"]
+      },
+      {
+        "title": "Back to the Future",
+        "year": 1985,
+        "genre": ["Sci-fi", "Comedy"]
+      },
+      {
+        "title": "The Lord of the Rings Series",
+        "year": 2001,
+        "genre": ["Fantasy", "Adventure"]
+      },
+      {
+        "title": "The King's Speech",
+        "year": 2010,
+        "genre": ["Western", "Drama"]
+      },
+      {
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "genre": ["War", "Action"]
+      },
+      {
+        "title": "Saw",
+        "year": 2004,
+        "genre": ["Horror", "Crime"]
+      },
+      {
+        "title": "Pirates of the Caribbean",
+        "year": 2003,
+        "genre": ["Adventure", "Fantasy"]
+      },
+      {
+        "title": "The Princess Bride",
+        "year": 1987,
+        "genre": ["Comedy", "Adventure"]
+      },
+      {
+        "title": "In Bruges",
+        "year": 2008,
+        "genre": ["Crime", "Comedy"]
+      },
+      {
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "genre": ["War", "Action"]
+      },
+      {
+        "title": "Office Space",
+        "year": 1999,
+        "genre": ["Comedy", "Crime"]
+      },
+      {
+        "title": "Ocean's Eleven",
+        "year": 2001,
+        "genre": ["Crime", "Thriller"]
+      },
+      {
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "genre": ["Adventure", "Action"]
+      },
+      {
+        "title": "Pineapple Express",
+        "year": 2008,
+        "genre": ["Comedy", "Action"]
+      },
+      {
+        "title": "The Bourne Identity",
+        "year": 2002,
+        "genre": ["Thriller", "Action"]
+      },
+      {
+        "title": "Minority Report",
+        "year": 2002,
+        "genre": ["Action", "Sci-fi"]
+      },
+      {
+        "title": "Shooter",
+        "year": 2007,
+        "genre": ["Thriller", "Action"]
+      },
+      {
+        "title": "Despicable Me",
+        "year": 2010,
+        "genre": ["Family", "Comedy"]
+      },
+      {
+        "title": "Mission Impossible",
+        "year": 1996,
+        "genre": ["Action", "Thriller"]
+      },
+      {
+        "title": "Paths of Glory",
+        "year": 1957,
+        "genre": ["War", "Thriller"]
+      },
+      {
+        "title": "Lost Highway",
+        "year": 1997,
+        "genre": ["Thriller", "Mystery"]
+      },
+      {
+        "title": "1408",
+        "year": 2007,
+        "genre": ["Horror", "Mystery"]
+      },
+      {
+        "title": "12 Angry Men",
+        "year": 1957,
+        "genre":
+  
+   ["Crime", "Thriller"]
+      },
+      {
+        "title": "Oldboy",
+        "year": 2003,
+        "genre": ["Thriller", "Action"]
+      },
+      {
+        "title": "Pan's Labyrinth",
+        "year": 2006,
+        "genre": ["Fantasy", "War"]
+      },
+      {
+        "title": "Ferris Bueller's Day Off",
+        "year": 1986,
+        "genre": ["Comedy", "Musical"]
+      },
+      {
+        "title": "The Breakfast Club",
+        "year": 1985,
+        "genre": ["Comedy", "Romance"]
+      },
+      {
+        "title": "The Help",
+        "year": 2011,
+        "genre": ["Drama", "Melodrama"]
+      }
+    ]
+  }
