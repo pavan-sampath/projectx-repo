@@ -1,2 +1,3 @@
 # projectx-repo
-N/A
+Welcome to my New Repo
+You Can start working here
